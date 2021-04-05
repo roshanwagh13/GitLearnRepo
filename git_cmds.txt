@@ -1,0 +1,12 @@
+1>git init   : it is used to initialize git in your project
+2>git status : to know the commits or status of project
+3>git add <filename> : to add your file to stagging area
+
+when you work on any file you add that file to stagging area now if you are sure that your work is ok and you want to create checkpoint there then
+you can commit there (checkpoint : It is the point where you can come back if you made changes in code but want your previous work )
+
+Add only that files to stagging area that you want to commit. 
+
+4>git commit -m "message" :to commit the changes and to give message so that one can come to know what changes to be done.
+ 
+  
