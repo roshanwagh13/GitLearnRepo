@@ -8,5 +8,10 @@ you can commit there (checkpoint : It is the point where you can come back if yo
 Add only that files to stagging area that you want to commit. 
 
 4>git commit -m "message" :to commit the changes and to give message so that one can come to know what changes to be done.
- 
+5>git log :It will give your all commits
+6> each commit has unique hash code
+7>git  rm --cached filename : used to revert files from stagging area(remove file from stagging area / unstage)
+8>git branch <branch_name> : to create new branch
+9>git checkout <branch_name> :to move to the branch
+10>git commit -am "msg" : here a stands for add so directly add and commit  
   
